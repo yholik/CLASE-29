@@ -12,7 +12,7 @@ const connection = mysql.createConnection({
     user: "root", //Por defecto es root
     password: "admin", //La clave que utilizamos en base de datos
     port: 3306,
-   // database: "movies_db"
+    // database: "movies_db"
 });
 
 
